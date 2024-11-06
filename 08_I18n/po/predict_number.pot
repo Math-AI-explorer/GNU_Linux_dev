@@ -1,0 +1,51 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <ilyagr2012@gmail.com>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-06 15:51+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <ilyagr2012@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/predict_number.c:19
+#, c-format
+msgid "Please, enter any number from 1 to 100 included\n"
+msgstr ""
+
+#: src/predict_number.c:26
+msgid "yes"
+msgstr ""
+
+#: src/predict_number.c:27
+msgid "not"
+msgstr ""
+
+#: src/predict_number.c:28
+msgid "nothing"
+msgstr ""
+
+#: src/predict_number.c:31
+#, c-format
+msgid ""
+"Can I ask if your number greater than %d (write yes or not or nothing)?\n"
+msgstr ""
+
+#: src/predict_number.c:46
+#, c-format
+msgid "Error input, try again\n"
+msgstr ""
+
+#: src/predict_number.c:50
+#, c-format
+msgid "Your desired number was: %d\n"
+msgstr ""
