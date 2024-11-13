@@ -1,0 +1,8 @@
+--- maze.c.orig 2024-11-13 14:34:08.324789231 +0300
++++ maze.c 2024-11-13 14:35:10.513679217 +0300
+@@ -1,5 +1,5 @@
+ #include <stdio.h>
+ #include <stdlib.h>
+ #include <time.h>
+
+ void generateMaze(char pass, char wall, int size) {
